@@ -107,5 +107,21 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
+<div style="text-align: left;">
+    <table style="margin-left: 0;">
+        <tr>
+            <td><a href="https://www.linkedin.com/in/haroon-sajid"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a></td>
+        </tr>
+        <tr>
+            <td><a href="mailto:harooni0016@gmail.com"><img src="https://img.shields.io/badge/Gmail-Profile-red?style=for-the-badge&logo=gmail" alt="Gmail"/></a></td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/harooni016"><img src="https://img.shields.io/badge/X_Twitter-Profile-blue?style=for-the-badge&logo=twitter" alt="Twitter"/></a></td>
+        </tr>
+        <tr>
+            <td><a href="https://www.kaggle.com/haroonsajid"><img src="https://img.shields.io/badge/Kaggle-Profile-orange?style=for-the-badge&logo=kaggle" alt="Kaggle"/></a></td>
+        </tr>
+    </table>
+</div>
 
 Thank you for using the Bank Management System! I hope it helps you manage your bank accounts effectively.
